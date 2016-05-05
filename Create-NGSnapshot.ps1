@@ -89,7 +89,7 @@ function Delete-Snapshot($snapname) {
  }
 }
 
-# Helper fucntion to list snapshots for a given colume
+# Helper fucntion to list snapshots for a given volume
 
 function Get-Snapshots($volname) {
  
